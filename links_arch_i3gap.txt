@@ -1,0 +1,11 @@
+https://elblogdelazaro.gitlab.io/post/2019-01-03-guia-instalacion-rapida-arch-i3wm.html
+
+https://stackoverflow.com/questions/37883138/how-to-change-the-color-of-my-hostname-in-bash
+
+https://www.google.com/amp/s/amp.reddit.com/r/i3wm/comments/a670u4/how_to_install_i3_gaps_on_arch_linux_fresh_install/
+
+https://makandracards.com/makandra/8057-xterm-have-a-black-background-by-default
+
+https://wiki.archlinux.org/index.php/Xorg/Keyboard_configuration
+
+https://wiki.archlinux.org/index.php/i3
