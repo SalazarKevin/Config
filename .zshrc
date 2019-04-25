@@ -51,5 +51,5 @@ compinit
 # End of lines added by compinstall
 
 autoload -U colors && colors
-PS1="%{$fg[white]%}%m %{$reset_color%}%% "
+PS1="%{$fg[green]%}%m %{$reset_color%}%% "
 
