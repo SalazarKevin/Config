@@ -1,3 +1,4 @@
+libinput, NO synaptics
 xf86-video-intel, para que funcione xbacklight
 alsa, pulseaudio
 zsh, xterm
