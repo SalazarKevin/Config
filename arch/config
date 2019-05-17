@@ -172,4 +172,3 @@ bar {
 client.unfocused        #333333 #222222 #ffffff #292d2e   #222222
 
 exec --no-startup-id redshift
-exec --no-startup-id nm-applet
