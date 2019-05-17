@@ -4,6 +4,7 @@ alsa, pulseaudio
 zsh, xterm
 pcmanfm, gvfs
 xarchiver https://www.archlinux.org/packages/community/x86_64/xarchiver/, ahí están los compresores
+nm-applet (opcional, más rápido que nmcli)
 deepin-gtk-theme
 papirus-icon-theme
 lxappearance
