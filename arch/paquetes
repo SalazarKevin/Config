@@ -15,3 +15,5 @@ Para que las ventanas qt tomen el tema gtk (deepin), como okular
   qt5ct
   modificar /etc/profile
 feh
+redshift
+redshiftgui-bin
