@@ -1,0 +1,17 @@
+agregar resume=UUID=123456778909876567890987654
+
+dconf no funciona para power(lid closed, hibernación)
+
+hacer:
+  sudo nano /var/lib/polkit-1/localauthority/10-vendor.d/com.ubuntu.desktop.pkla
+    [Disable hibernate by default in upower]
+    Identity=unix-user:*
+    Action=org.freedesktop.upower.hibernate
+    ResultActive=yes
+    [Disable hibernate by default in upower]
+    Identity=unix-user:*
+    Action=org.freedesktop.upower.hibernate
+    ResultActive=yes
+    
+  logind.conf -> HandlePowerKey=hibernate HandleLidSwitch=lock
+
