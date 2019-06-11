@@ -1,0 +1,10 @@
+dejar el método como "áreas", no como 2 dedos
+
+editar 70-synaptics.conf:
+  Section "InputClass"
+          Identifier "touchpad catchall"
+          Driver "synaptics"
+          MatchIsTouchpad "on"
+    Option "TapButton2" "2"
+    Option "TapBurron3" "3"
+ EndSection
