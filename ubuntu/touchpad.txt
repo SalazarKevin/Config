@@ -7,6 +7,6 @@
 3)sudo update-initramfs -u
 4)sudo reboot
 
-5) synclient TapButton2=2 TapButton3=3, colocarlo como aplicación de inicio
+5) synclient TapButton2=2 TapButton3=3 HorizEdgeScroll=1 HorizTwoFingerScroll=0, colocarlo como aplicación de inicio
 
 
